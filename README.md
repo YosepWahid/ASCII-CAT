@@ -24,11 +24,9 @@ chmod +x cat_animation.sh
 
 ## Preview
 
-To get a glimpse of the cat animation, check out the preview video here
+To get a glimpse of the cat animation, check out the preview here
 
 
 
-
-<video width="630" height="300" src="https://github.com/YosepWahid/ASCII-CAT/assets/109337982/cecc2c44-7917-4205-a305-fb6ced15f25c"></video>
-
+![cat-priview](https://github.com/YosepWahid/ASCII-CAT/assets/109337982/61548609-43b3-4545-b648-0853997dc701)
 
