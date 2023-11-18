@@ -25,5 +25,3 @@ chmod +x cat_animation.sh
 ## Preview
 
 To get a glimpse of the cat animation, check out the preview video here
-
-<video src='cat-priview.mp4'></video>
